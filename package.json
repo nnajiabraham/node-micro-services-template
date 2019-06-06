@@ -29,7 +29,7 @@
     "express": "^4.0.0",
     "js-yaml": "^3.6.1",
     "pm2": "^1.1.0",
-    "promise": "^7.0.0",
+    "promise": "^8.0.3",
     "serve-favicon": "^2.0.0",
     "underscore": "^1.8.3"
   },
