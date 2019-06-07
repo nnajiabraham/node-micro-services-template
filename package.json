@@ -22,7 +22,7 @@
     "nuke": "scripts/cleanup.sh"
   },
   "dependencies": {
-    "assert": "^1.0.0",
+    "assert": "^2.0.0",
     "config": "^1.20.1",
     "cors": "^2.0.0",
     "debug": "^2.0.0",
